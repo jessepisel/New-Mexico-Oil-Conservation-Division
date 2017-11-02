@@ -1,0 +1,94 @@
+District I					                						                                   State of New Mexico					                                                      Form  C-107A
+1625 N. French Drive, Hobbs, NM 88240                                    Energy, Minerals and Natural Resources Department	                                        Revised August 1, 2011
+District II
+811 S. First St., Artesia, NM 88210                                                                                                                   Oil Conservation Division						                   APPLICATION TYPE
+District III					                                                                1220 South St. Francis Dr.  												  	    ____Single Well
+1000 Rio Brazos Road, Aztec, NM 87410                                                             Santa Fe, New Mexico  87505                                ____Establish Pre-Approved Pools
+District IV                                                                                                                                                                               EXISTING WELLBORE
+1220 S. St. Francis Dr., Santa Fe, NM  87505                          APPLICATION FOR DOWNHOLE COMMINGLING                ____	Yes  ____No
+
+
+
+____________________________________________________________________________________________________________________________________
+Operator                                                                                                                  Address
+
+____________________________________________________________________________________________________________________________________
+Lease                                                                   Well No.                        Unit Letter-Section-Township-Range                                                          County
+
+OGRID No.________  Property Code__________  API No.___________________  Lease Type:  ____Federal  ____State  ____Fee
+
+
+DATA ELEMENT
+
+UPPER ZONE
+INTERMEDIATE ZONE
+LOWER ZONE
+Pool Name
+Pool Code
+Top and Bottom of Pay Section
+(Perforated or Open-Hole Interval)
+Method of Production
+(Flowing or Artificial Lift)Bottomhole Pressure
+(Note:  Pressure data will not be required if the bottom perforation in the lower zone is within 150% of the depth of the top perforation in the upper zone)Oil Gravity or Gas BTU 
+(Degree API or Gas BTU)Producing, Shut-In or  
+New ZoneDate and Oil/Gas/Water Rates of Last Production.
+(Note: For new zones with no production history, applicant shall be required to attach production estimates and supporting data.)
+
+Date:
+
+Rates:
+
+Date:
+
+Rates:
+
+Date:
+
+Rates:
+Fixed Allocation Percentage
+(Note:  If allocation is based upon something other than current or past production, supporting data or explanation will be required.)Oil                       Gas
+
+                  %                     %Oil                       Gas
+
+                   %                         %Oil                       Gas
+
+                  %                       %
+ADDITIONAL DATA
+
+Are all working, royalty and overriding royalty interests identical in all commingled zones?	Yes_______	No_______
+If not, have all working, royalty and overriding royalty interest owners been notified by certified mail?	Yes_______	No_______
+
+Are all produced fluids from all commingled zones compatible with each other?	Yes_______	No_______
+
+Will commingling decrease the value of production?	Yes_______	No_______
+
+If this well is on, or communitized with, state or federal lands, has either the Commissioner of Public Lands
+or the United States Bureau of Land Management been notified in writing of this application?	Yes_______	No_______
+
+NMOCD Reference Case No. applicable to this well:  _________________________________________________
+
+Attachments:
+C-102 for each zone to be commingled showing its spacing unit and acreage dedication.
+	Production curve for each zone for at least one year.  (If not available, attach explanation.)
+	For zones with no production history, estimated production rates and supporting data.
+	Data to support allocation method or formula.
+	Notification list of working, royalty and overriding royalty interests for uncommon interest cases.
+	Any additional statements, data or documents required to support commingling.
+_______________________________________________________________________________________________________________________________________
+
+PRE-APPROVED POOLS
+
+If application is to establish Pre-Approved Pools, the following additional information will be required:
+
+List of other orders approving downhole commingling within the proposed Pre-Approved Pools
+List of all operators within the proposed Pre-Approved Pools
+Proof that all operators within the proposed Pre-Approved Pools were provided notice of this application.
+Bottomhole pressure data.
+
+I hereby certify that the information above is true and complete to the best of my knowledge and belief.
+
+SIGNATURE__________________________________TITLE_______________________________DATE____________________
+
+TYPE OR PRINT NAME_________________________________________TELEPHONE NO. (________)____________________
+
+E-MAIL ADDRESS_____________________________________________

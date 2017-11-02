@@ -1,0 +1,70 @@
+Submit one copy to
+appropriate district office.
+See Rule 19.15.19.8 NMAC 
+and Rule 19.15.7.30 NMACState of New Mexico
+Energy Minerals and Natural Resources
+
+Oil Conservation Division
+1220 South St. Francis Dr.
+Santa Fe, NM 87505
+Form C-122
+Revised October 15, 2009MULTIPOINT AND ONE POINT BACK PRESSURE TEST FOR GAS WELL
+OperatorLease or Unit NameType Test
+                    Initial             Annual              SpecialTest DateWell No.Completion DateTotal DepthPlug Back TDElevationUnit Ltr. - Sec. - TWP – Rge.Csg. SizeWt.dSet AtPerforations:
+
+From:                                           To:CountyThg. SizeWt.dSet AtPerforations:
+
+From:                                           To:PoolType Well - Single - Bradenhead - G.G. or G.O. Multiple
+Packer Set AtFormationProducing Thru
+Reservoir Temp. ?FMean Annual Temp. ?FBaro, Press - PaConnectionL
+HGg%C02%N2%H2SProverMeter RunTapsFLOW DATATUBING DATACASING DATADuration
+Of
+FlowNo.Prover                       Orifice
+Line         X
+Size                             SizePress.
+p.s.i.g.Diff.
+hwTemp.
+?FPress.
+p.s.i.g.Temp.
+?FPress.
+p.s.i.g.Temp.
+?FSI1.2.3.4.5.RATE OF FLOW CALCULATIONSNo.COEFFICIENT
+(24 HOUR)                    
+                  hwPmPressure
+PmFlow Temp.
+Factor Ft.Gravity Factor
+Fg.Super Compress.
+Factor, F pv.Rate of Flow
+Q, Mcfd1.2.3.4.5.No.PrTemp. ?RTrZ
+Gas Liquid Hydrocarbon Ratio___________________________________ Mcf/bbl.
+
+A. P.  I. Gravity of Liquid Hydrocarbons______________________________ Deg.
+
+Specific Gravity Separator Gas____________________________XXXXXXXXX
+
+Specific Gravity Flowing Fluid __________XXXXX_______________________
+
+Critical Pressure ______________________________ P.S.I.A.   ________P.S.I.A.
+
+Critical Temperature________________________________R.   _____________R1.2.3.4.5.   Pc __________________________ P c2 ____________No.Pt2PwPw2Pc2 - Pw2     (1)        Pc2         =___________________             (2)           P c2          n = ________
+              _______                                                                     ________
+               Pc2 - Pw2                                                                       Pc2 - Pw2
+
+     AOF = Q                       Pc2            n  = __________________
+                                        _______
+                                         Pc2 - Pw21.2.3.4.5.
+Absolute Open Flow ______________________________________________ Mcfd@ 15.025Angle of Slope ?:Slope, n:
+Remarks:
+
+Approved By Division
+
+Conducted By:
+
+
+E-mail Address:Calculated By: 
+
+
+E-mail Address:Checked By
+
+
+E-mail Address:

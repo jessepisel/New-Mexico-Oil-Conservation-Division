@@ -1,0 +1,175 @@
+District I
+1625 N. French Dr., Hobbs, NM 88240
+District II
+811 S. First St., Artesia, NM 88210
+District III
+1000 Rio Brazos Road, Aztec, NM 87410
+District IV
+1220 S. St. Francis Dr., Santa Fe, NM 87505State of New Mexico
+Energy Minerals and Natural Resources
+Department
+Oil Conservation Division
+1220 South St. Francis Dr.
+Santa Fe, NM 87505
+Form C-147
+Revised April 3, 2017
+
+. 
+
+Recycling Facility and/or Recycling Containment
+     Type of Facility:	 Recycling Facility           Recycling Containment*   
+       Type of action: 	 Permit 	 Registration
+              	 Modification 	 Extension
+	 Closure	 Other (explain) ___________________
+* At the time C-147 is submitted to the division for a Recycling Containment, a copy shall be provided to the surface owner.
+Be advised that approval of this request does not relieve the operator of liability should operations result in pollution of surface water, ground water or the environment.  Nor does approval relieve the operator of its responsibility to comply with any other applicable governmental authority's rules, regulations or ordinances. 
+
+1.
+Operator: ______________________________________________(For multiple operators attach page with information) OGRID #:_______________
+Address: ____________________________________________________________________________________________________________________
+Facility or well name (include API# if associated with a well): __________________________________________________________________________   
+OCD Permit Number: ___________________________(For new facilities the permit number will be assigned by the district office)
+U/L or Qtr/Qtr  ______________ Section ____________ Township ____________ Range ____________ County:  ________________________________ 
+Surface Owner:  Federal  State  Private  Tribal Trust or Indian Allotment 
+
+2. 
+ Recycling Facility:    
+Location of recycling facility (if applicable):  Latitude __________________________ Longitude __________________________  NAD83
+Proposed Use:   Drilling*   Completion*   Production*  Plugging *
+ *The re-use of produced water may NOT be used until fresh water zones are cased and cemented
+ Other, requires permit for other uses. Describe use, process, testing, volume of produced water and ensure there will be no adverse impact on groundwater or surface water.
+ Fluid Storage   
+ Above ground tanks    Recycling containment  Activity permitted under 19.15.17 NMAC explain type___________________________
+ Activity permitted under 19.15.36 NMAC explain type:___________________________   Other explain  __________________________    
+ For multiple or additional recycling containments, attach design and location information of each containment
+ Closure Report (required within 60 days of closure completion):   Recycling Facility Closure Completion Date:_______________________
+
+3.
+ Recycling Containment:      
+ Annual Extension after initial 5 years (attach summary of monthly leak detection inspections for previous year)
+Center of Recycling Containment (if applicable):  Latitude _________________________ Longitude _______________________  NAD83
+ For multiple or additional recycling containments, attach design and location information of each containment
+ Lined      Liner type:  Thickness _________mil     LLDPE   HDPE   PVC   Other  ___________________________     
+ String-Reinforced
+Liner Seams:   Welded   Factory   Other  _______________________  Volume: __________bbl   Dimensions: L______ x W______ x D______
+ Recycling Containment Closure Completion Date:_______________________
+
+
+
+4.
+Bonding:   
+ Covered under bonding pursuant to 19.15.8 NMAC per 19.15.34.15(A)(2) NMAC (These containments are limited to only the wells owned or operated by the owners of the containment.)
+ Bonding in accordance with 19.15.34.15(A)(1). Amount of bond $_________________ (work on these facilities cannot commence until bonding amounts are approved)
+ Attach closure cost estimate and documentation on how the closure cost was calculated.
+5.
+Fencing:  
+ Four foot height, four strands of barbed wire evenly spaced between one and four feet
+ Alternate.  Please specify________________________________________
+6.
+Signs:   
+ 12”x 24”, 2” lettering, providing Operator’s name, site location, and emergency telephone numbers  
+ Signed in compliance with 19.15.16.8 NMAC
+7.
+Variances:
+Justifications and/or demonstrations that the proposed variance will afford reasonable protection against contamination of fresh water, human health, and the environment.  
+
+Check the below box only if a variance is requested:
+       Variance(s):  Requests must be submitted to the appropriate division district for consideration of approval. If a Variance is requested, include the variance information on a separate page and attach it to the C-147 as part of the application.
+     If a Variance is requested, it must be approved prior to implementation.
+     
+8.
+Siting Criteria for Recycling Containment
+
+Instructions:  The applicant must provide attachments that demonstrate compliance for each siting criteria below as part of the application.  Potential examples of the siting attachment source material are provided below under each criteria.  
+General siting
+
+Ground water is less than 50 feet below the bottom of the Recycling Containment.
+NM Office of the State Engineer - iWATERS database search; USGS; Data obtained from nearby wells
+
+Within incorporated municipal boundaries or within a defined municipal fresh water well field covered under a municipal ordinance adopted pursuant to NMSA 1978, Section 3-27-3, as amended. 
+- Written confirmation or verification from the municipality; written approval obtained from the municipality
+
+Within the area overlying a subsurface mine. 
+- Written confirmation or verification or map from the NM EMNRD-Mining and Minerals Division
+
+Within an unstable area. 
+- Engineering measures incorporated into the design; NM Bureau of Geology & Mineral Resources; USGS; NM Geological Society; topographic map
+
+Within a 100-year floodplain. FEMA map
+
+Within 300 feet of a continuously flowing watercourse, or 200 feet of any other significant watercourse, or lakebed, sinkhole, or playa lake (measured from the ordinary high-water mark).
+- Topographic map; visual inspection (certification) of the proposed site
+
+Within 1000 feet from a permanent residence, school, hospital, institution, or church in existence at the time of initial application.
+- Visual inspection (certification) of the proposed site; aerial photo; satellite image
+
+Within 500 horizontal feet of a spring or a fresh water well used for domestic or stock watering purposes, in existence at the time of initial application.
+- NM Office of the State Engineer - iWATERS database search; visual inspection (certification) of the proposed site
+
+Within 500 feet of a wetland.
+- US Fish and Wildlife Wetland Identification map; topographic map; visual inspection (certification) of the proposed site 
+
+
+
+
+  Yes   No
+  NA
+
+  Yes   No
+  NA
+
+
+
+  Yes   No
+
+
+  Yes   No
+
+
+  Yes   No
+
+  Yes   No
+
+
+
+  Yes   No
+
+
+
+  Yes   No
+
+
+
+  Yes   No
+
+
+9.
+Recycling Facility and/or Containment Checklist:   
+Instructions:  Each of the following items must be attached to the application.  Indicate, by a check mark in the box, that the documents are attached.
+
+      Design Plan - based upon the appropriate requirements.
+      Operating and Maintenance Plan - based upon the appropriate requirements.
+      Closure Plan - based upon the appropriate requirements.
+      Site Specific Groundwater Data - 
+      Siting Criteria Compliance Demonstrations – 
+      Certify that notice of the C-147 (only) has been sent to the surface owner(s)
+
+
+
+10.
+Operator Application Certification:
+
+
+ I hereby certify that the information and attachments submitted with this application are true, accurate and complete to the best of my knowledge and belief.
+
+Name (Print): _________________________________________________________     Title: ______________________________________________
+Signature:_______________________________________________________________     Date: ____________________________________________
+e-mail address:________________________________________________________     Telephone: ___________________________________________
+11.
+OCD Representative Signature:  _________________________________________________________   Approval Date: _______________________
+
+Title: _______________________________________________________             OCD Permit Number:_______________________________________
+  OCD Conditions _______________________________________________
+  Additional OCD Conditions on Attachment
+	Oil Conservation Division	Page 1 of 3
+

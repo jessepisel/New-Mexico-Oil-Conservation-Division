@@ -1,0 +1,54 @@
+District I
+1625 N. French Dr., Hobbs, NM 88240
+District II
+811 S. First St., Artesia, NM 88210
+District III
+1000 Rio Brazos Road, Aztec, NM 87410
+District IV
+1220 S. St. Francis Dr., Santa Fe, NM 87505State of New Mexico
+Energy Minerals and Natural Resources
+
+Oil Conservation Division
+1220 South St. Francis Dr.
+Santa Fe, NM 87505
+Form C-116
+Revised August 1, 2011
+
+
+Submit One Copy
+To Appropriate
+District OfficeGAS - OIL RATIO TEST
+Operator
+PoolCountyAddress
+TYPE OF
+TEST - (X)       Scheduled                       Completion                      Special  LEASE NAMEAPI No.WELL
+NO.LOCATIONDATE OF
+TESTSTATUSCHOKE
+SIZETBG.
+PRESS.DAILY
+ALLOW-
+ABLELENGTH
+OF
+TEST
+HOURSPROD. DURING TESTGAS - OIL
+RATIO
+CU.FT/BBL.USTRWATER
+BBLS.GRAV.
+OILOIL
+BBLS.GAS
+M.C.F.Instructions:
+
+    During gas-oil ratio test, each well shall be produced at a rate not exceeding the top unit allowable for the pool in which well is located by more than 25 percent.  Operator is encouraged to take advantage of this 25 percent tolerance in order that well can be assigned increased allowables when authorized by the Division.
+    Gas volumes must be reported in MCF measured at a pressure base of 15.025 psia and a temperature of 60° F.  Specific gravity base will be 0.60.
+     Report casing pressure in lieu of tubing pressure for any well producing through casing.
+
+    (See Rule 19.15.18.8 NMAC, Rule 19.15.7.25 NMAC and appropriate pool rules.)I hereby certify that the above information is true and complete to the best of my knowledge and belief.
+
+___________________________________________________________
+Signature                                                                                     Date
+
+___________________________________________________________
+Printed Name                                                                              Title
+
+___________________________________________________________
+E-mail Address                                                                       Telephone No.

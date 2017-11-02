@@ -1,0 +1,110 @@
+This form is not to be 
+used for  reporting 
+packer leakage tests
+in Southeast New MexicoNEW MEXICO OIL CONSERVATION DIVISION
+
+NORTHWEST NEW MEXICO PACKER LEAKAGE TEST
+Page 1
+Revised June 10, 2003	Well
+Operator ________________________________________________ Lease Name _____________________	No. ___________
+
+Location Of Well:  Unit Letter ________ Sec ________ Twp ________ Rge ________ API # 30-0________________________
+
+Name of Reservoir or Pool
+Type of Prod.
+(Oil or Gas)Method of Prod.
+(Flow or Art. Lift)Prod. Medium
+(Tbg. Or Csg.)Upper
+CompletionLower
+Completion
+Pre-Flow Shut-In Pressure Data
+Upper
+CompletionHour, Date, Shut-In
+Length of Time Shut-In
+SI Press. Psig
+Stabilized? (Yes or No)
+Lower
+CompletionHour, Date, Shut-In
+Length of Time Shut-In
+SI Press. Psig
+Stabilized? (Yes or No)
+
+Flow Test No. 1
+Commenced at (hour, date)*Zone producing (Upper or Lower):Time
+(Hour, Date)Lapsed Time
+Since*Pressure
+Upper Compl.     Lower Compl.Prod. Zone
+Temp.Remarks
+
+
+
+
+
+Production rate during test
+
+Oil: __________ BOPD based on __________Bbls. In __________ Hrs. __________ Grav. __________ GOR __________
+
+Gas: ________________ MCFPD; Test thru (Orifice or Meter): ________________________________________________
+
+Mid-Test Shut-In Pressure Data
+Upper
+CompletionHour, Date, Shut-In
+Length of Time Shut-In
+SI Press. Psig
+Stabilized? (Yes or No)
+Lower
+CompletionHour, Date, Shut-In
+Length of Time Shut-In
+SI Press. Psig
+Stabilized? (Yes or No)
+(Continue on reverse side)
+
+NORTHWEST NEW MEXICO PACKER LEAKAGE TEST                                       Page 2
+Flow Test No. 2
+Commenced at (hour, date)**Zone producing (Upper or Lower):Time
+(Hour, Date)Lapsed Time
+Since**Pressure
+Upper Compl.     Lower Compl.Prod. Zone
+Temp.Remarks
+
+
+
+
+
+Production rate during test
+Oil: ____________ BOPD based on ___________Bbls. In __________ Hrs. __________ Grav. __________ GOR __________
+Gas: ________________ MCFPD; Test thru (Orifice or Meter): ___________________________________________________
+Remarks: 
+
+
+I hereby certify that the information herein contained is true and complete to the best of my knowledge.
+
+Approved ____________________________________ 20______	Operator ____________________________________
+New Mexico Oil Conservation Division
+	By _________________________________________
+
+By ___________________________________________________	Title ________________________________________
+
+Title _________________________________________________	E-mail Address _______________________________
+
+	Date ________________________________________
+Northwest New Mexico Packer Leakage Test Instructions
+
+
+1.  A packer leakage test shall be commenced on each multiply completed well within seven days after actual completion of the well, and annually thereafter as prescribed by the order authorizing the multiple completion.  Such tests shall also be commenced on all multiple completions within seven days following recompletion and/or chemical or fracture treatment, and whenever remedial work has been done on a well during which the packer or the tubing have been disturbed.  Tests shall also be taken at any time that communication is suspected or when requested by the Division.
+
+2.  At least 72 hours prior to the commencement of any packer leakage test, the operator shall notify the Division in writing of the exact time the test is to be commenced.  Offset operators shall also be so notified.
+
+3.  The packer leakage test shall commence when both zones of the dual completion are shut-in for pressure stabilization.  Both zones shall remain shut-in until the well-head pressure in each has stabilized, provided however, that they need not remain shut-in more than seven days.
+
+4.  For Flow Test No. 1, one zone of the dual completion shall be produced at the normal rate of production while the other zone remains shut-in.  Such test shall be continued for seven days in case of a gas well and 24 hours in the case of an oil well.  Note:  if, on an initial packer leakage test, a gas well is being flowed to the atmosphere due to the lack of a pipeline connection the flow period shall be three hours.
+
+5.  Following completion of Flow Test No. 1, the well shall again be shut-in, in accordance with Paragraph 3 above.
+
+6.  Flow Test No. 2 shall be conducted even though no leak was indicated during Flow Test No. 1.  Procedure for Flow Test No. 2 is to be the same as for Flow Test No. 1 except that the previously produced zone shall remain shut-in while the zone which was previously shut-in is produced.
+
+7.  Pressures for gas-zone tests must be measured on each zone with a deadweight pressure gauge at time intervals as follows:  3 hour tests:  immediately prior to the beginning of each flow-period, at fifteen-minute intervals during the first hour thereof, and at hourly intervals thereafter, including one pressure measurement immediately prior to the beginning of each flow period, at least one time during each flow period (at approximately the midway point) and immediately prior to the conclusion of each flow period.  Other pressures may be taken as desired, or may be requested on wells which have previously shown questionable test data.
+
+   24-hour oil zone tests:  all pressures, throughout the entire test, shall be continuously measured and recorded with recording pressure gauges the accuracy of which must be checked at least twice, once at the beginning and once at the end of each test, with a deadweight pressure gauge.  If a well is a gas-oil or an oil-gas dual completion, the recording gauge shall be required on the oil zone only, with deadweight pressures as required above being taken on the gas zone.
+
+8.  The results of the above-described tests shall be filed in triplicate within 15 days after completion of the test.  Tests shall be filed with the Aztec District Office of the New Mexico Oil Conservation Division on Northwest New Mexico Packer Leakage Test Form Revised 11-16-98, with all deadweight pressures indicated thereon as well as the flowing temperatures (gas zones only) and gravity and GOR (oil zones only). 

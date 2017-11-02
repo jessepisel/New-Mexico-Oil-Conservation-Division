@@ -1,0 +1,82 @@
+This form is not to be used
+For reporting Packer Leakage
+Test in Northwest New MexicoNEW MEXICO OIL CONSERVATION DIVISION
+SOUTHEAST NEW MEXICO PACKER LEAKAGE TESTRevised 11/23/11	Well API #____________________________________
+Operator ________________________________________________ Well Name & No._______________________________
+Location Of Well:  Unit __________ Section ___________ Township ___________ Range ___________ County __________
+
+Name of Reservoir or Pool
+Type of Prod.
+(Oil or Gas)Method of Prod.
+(Flow Art. Lift)Prod. Medium
+(Tbg. Or Cag.)Choke Size
+Upper
+CompletionLower
+Completion
+FLOW TEST NO. 1
+Both zones shut-in at (hour, date): __________________________________________________________________________
+	Upper	Lower
+Well opened at (hour, date): _______________________________________________________ Completion	Completion
+
+Indicate by (X) the zone producing…………………………………………………………………	_________	__________
+
+Pressure at beginning of test………………………………………………………………………..	_________	__________
+.
+Stabilized?  (Yes or No)……………………………………………………………………………	_________	__________
+
+Maximum pressure during test…………………………………………………………………….	_________	__________
+
+Minimum pressure during test……………………………………………………………………..	_________	__________
+
+Pressure at conclusion of test………………………………………………………………………	_________	__________
+
+Pressure change during test (Maximum minus Minimum)………………………………………..	_________	__________
+
+Was pressure change an increase or a decrease?…………………………………………………..	_________	__________
+	Total Time On
+Well closed at (hour, date):____________________________________Production __________________________________
+Oil Production	Gas Production
+During Test: _______________bbls; Grav. _______________; During Test _______________ MCF; GOR _______________
+
+Remarks: _____________________________________________________________________________________________
+_____________________________________________________________________________________________________
+
+FLOW TEST NO. 2
+Both zones shut-in at (hour, date): __________________________________________________________________________
+	Upper	Lower
+Well opened at (hour, date): _______________________________________________________ Completion	Completion
+
+Indicate by (X) the zone producing…………………………………………………………………	_________ 	__________
+
+Pressure at beginning of test………………………………………………………………………..	_________	__________
+
+Stabilized?  (Yes or No)……………………………………………………………………………	_________	__________
+
+Maximum pressure during test…………………………………………………………………….	_________	__________
+
+Minimum pressure during test……………………………………………………………………..	_________	__________
+
+Pressure at conclusion of test………………………………………………………………………	_________	__________
+
+Pressure change during test (Maximum minus Minimum)………………………………………..	_________	__________
+
+Was pressure change an increase or a decrease?…………………………………………………..	_________	__________
+	Total Time On
+Well closed at (hour, date):____________________________________Production __________________________________
+Oil Production	Gas Production
+During Test: _______________bbls; Grav. _______________; During Test _______________ MCF; GOR _______________
+
+Remarks: _____________________________________________________________________________________________
+
+_____________________________________________________________________________________________________
+I hereby certify that the information herein contained is true and complete to the best of my knowledge.
+
+Approved ____________________________________ 20_______	Operator ____________________________________
+	New Mexico Oil Conservation Division
+	By _________________________________________
+
+By ___________________________________________________	Title ________________________________________
+
+Title _________________________________________________	E-mail Address _______________________________
+
+	Date _______________________________________

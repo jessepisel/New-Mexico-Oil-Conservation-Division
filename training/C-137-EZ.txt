@@ -1,0 +1,126 @@
+District I
+1625 N. French Dr., Hobbs, NM 88240
+District II
+811 S. First St., Artesia, NM 88210
+District III
+1000 Rio Brazos Road, Aztec, NM 87410
+District IV
+1220 S. St. Francis Dr., Santa Fe, NM 87505State of New Mexico
+Energy Minerals and Natural Resources
+
+Oil Conservation Division
+1220 South St. Francis Dr.
+Santa Fe, NM 87505
+
+
+
+
+Form C-137 EZ
+Revised August 1, 2011
+
+Submit 1 Copy to Santa Fe Office
+REGISTRATION/ FINAL CLOSURE REPORT FOR SMALL LANDFARM
+Section 7 of 19.15.36 NMAC defines a small landfarm as a centralized landfarm of two acres or less that has a total capacity of 2000 cubic yards or less in a single lift of eight inches or less, remains active for a maximum of three years from the date of its registration and that receives only petroleum hydrocarbon-contaminated soils (excluding drill cuttings) that are exempt or non-hazardous waste. The operator shall operate only one active small landfarm per governmental section at any time. 
+
+GENERAL INFORMATION
+
+1.                     Small Landfarm Registration                              Small Landfarm Final Closure Report*
+						    (*Must be submitted within three years from the registration date)	
+
+2.   Operator:   ______________________________________________________________________________________________
+
+      Address: ________________________________________________________________________________________________
+
+      Contact Person:   ______________________________________________     Phone:  _________________________________
+
+3.   Location: __________/4    __________/4    Section  ___________    Township ____________   Range ________________
+------------------------------------------------------------------------------------------------------------------------------------------------------------------                        
+REGISTRATION
+
+1.	As operator, are you the surface estate owner of the proposed site?      Yes          No     If no, please attach a certification statement that demonstrates a written agreement is established with the surface estate owner authorizing the use of the site for the proposed small landfarm.
+
+2.	Will the proposed small landfarm comply with the siting requirements of Subsections A and B of 19.15.36.13 NMAC?     
+   Yes          No     
+
+A.	Depth to ground water.
+* No small landfarm shall be located where ground water is less than 50 feet below the lowest elevation at which the operator will place oil field waste.
+B.	No surface waste management facility shall be located:
+* within 200 feet of a watercourse, lakebed, sinkhole or playa lake;
+* within an existing wellhead protection area or 100-year floodplain;
+* within, or within 500 feet of, a wetland;
+* within the area overlying a subsurface mine;
+* within 500 feet from the nearest permanent residence, school, hospital, institution or church in existence at the time of initial application; or
+* within an unstable area, unless the operator demonstrates that engineering measures have been incorporated into the surface waste management facility design to ensure that the surface waste management facility’s integrity will not be compromised.
+
+3.	Attach a plat and topographic map showing the small landfarm’s location in relation to governmental surveys (quarter-quarter section, township and range); highways or roads giving access to the small landfarm site; watercourses; fresh water sources, including wells and springs; oil and gas wells or other production facilities; and inhabited buildings within one mile of the site’s perimeter.
+
+Based on the information provided with this submittal, registration of a small landfarm can only be granted if the operator complies with the following understandings and conditions:
+
+    * The operator shall operate only one active small landfarm per governmental section at any time.  No small landfarm shall be located more than one mile from the operator’s nearest oil or gas well or other production facility.
+    * The operator shall accept only exempt or non-hazardous wastes consisting of soils (excluding drill cuttings) generated as a result of accidental releases from production operations, that are predominantly contaminated by petroleum hydrocarbons, do not contain free liquids, would pass the paint filter test and where testing shows chloride concentrations are 500 mg/kg or below.
+    * The operator shall berm the landfarm to prevent rainwater run-on and run-off.
+    * The operator shall post a sign at the site readable from a distance of 50 feet and listing the operator’s name; small landfarm registration number; location by unit letter, section, township and range; expiration date; and an emergency contact telephone number.
+    * The operator shall spread and disk contaminated soils in a single eight inch or less lift within 72 hours of receipt.  The operator shall conduct treatment zone monitoring to ensure that the TPH concentration, as determined by EPA SW-846 method 8015M or EPA method 418.1 or other EPA method approved by the division, does not exceed 2500 mg/kg; and that the chloride concentration, as determined by EPA method 300.1, does not exceed 500 mg/kg.  The operator shall treat soils by disking at least once a month and by watering and adding bioremediation enhancing materials when needed.
+    * The operator shall maintain records reflecting the generator, the location of origin, the volume and type of oil field waste, the date of acceptance and the hauling company for each load of oil field waste received.  The division shall post on its website each small landfarm’s location, operator and registration date.  In addition, the operator shall maintain records of the small landfarm’s remediation activities in a form readily accessible for division inspection.  The operator shall maintain all records for five years following the small landfarm’s closure.
+    * The operator shall submit a final closure report on a form C-137 EZ, together with photographs of the closed site, to the environmental bureau in the division’s Santa Fe office.  
+
+CERTIFICATION
+I hereby certify that the information submitted with this registration is true, accurate and complete to the best of my knowledge and belief and agree to the understandings and conditions of this registration.
+
+Name:   ______________________________________________
+
+Signature: ___________________________________________
+
+E-mail Address: _______________________________________
+Title: _____________________________________
+
+Date: _____________________________________
+
+OCD REGISTRATION:   Approved.  Date :  _______________       Denied.  Date:   _______________  
+
+Comments:  __________________________________________________________________________________________________
+
+OCD Representative Signature:  ____________________________________________  
+
+Title: ________________________________________________    OCD Registration Number:  _______________________
+
+FINAL CLOSURE REPORT
+
+Were the landfarmed soils able to achieve the closure performance standards, listed below, within three years from the registration date?     Yes         No     (Please provide laboratory analytical results)     
+* benzene, as determined by EPA SW-846 method 8021 B or 8260B, shall not exceed 0.2 mg/kg;
+* Total BTEX, as determined by EPA SW-846 method 8021 B or 8260B, shall not exceed 50 mg/kg;
+* TPH, as determined by EPA SW-846 method 418.1 or other EPA method approved by the division, shall not exceed 2500 mg/kg; the GRO and DRO combined fraction, as determined by EPA SW-846 method 8015M, shall not exceed 500 mg/kg; and
+* chlorides, as determined by EPA method 300.1, shall not exceed 500 mg/kg.
+
+If yes, were the additional closure requirements listed below satisfied?     Yes        No     (Please provide photos)
+* The operator shall re-vegetate soils remediated to the closure performance standards if left in place in accordance with Paragraph (6) of Subsection A of 19.15.36.18 NMAC.
+* If the operator returns remediated soils to the original site, or with division permission, recycles them, re-vegetate the cell filled in with native soil to the standards in Paragraph (6) of Subsection A of 19.15.36.18 NMAC;
+* The operator shall remove berms on the small landfarm and buildings, fences, roads and equipment; and
+* The operator shall clean up the site and collect one vadose zone soil sample from three to five feet below the middle of the treatment zone, or in an area where liquids may have collected due to rainfall events; the vadose zone soil sample shall be collected and analyzed using the methods specified above for TPH, BTEX and chlorides.
+
+If no, were the landfarmed soils that have not or cannot be remediated to the closure performance standards within three years removed to a division-approved surface waste management facility, and the cell filled in with native soil to the standards in Paragraph (6) of Subsection A of 19.15.36.18 NMAC and re-vegetated?     Yes        No     (Please provide photos)
+
+CERTIFICATION
+I hereby certify that the information submitted with this final closure report is true, accurate and complete to the best of my knowledge and belief.
+
+Name:   ______________________________________________
+
+Signature: ___________________________________________
+
+E-mail Address: _______________________________________
+Title: ___________________________________
+
+Date: _____________________________________
+
+OCD CLOSURE REVIEW:   Closure Approved.  Date :  _______________      Closure Denied.  Date:  _______________
+
+Comments:  _______________________________________________________________________________________________________
+
+OCD Representative Signature:  ______________________________________________________ 
+
+Title: _________________________________________________________     OCD Registration Number:  _______________________
+Form C-137 EZ
+Page 1 of 2
+
+
+

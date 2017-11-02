@@ -1,0 +1,64 @@
+Submit To Appropriate District Office
+Two Copies
+District I
+1625 N. French Dr., Hobbs, NM 88240
+District II
+811 S. First St., Artesia, NM 88210
+District III
+1000 Rio Brazos Rd., Aztec, NM 87410
+District IV
+1220 S. St. Francis Dr., Santa Fe, NM 87505State of New Mexico
+Energy, Minerals and Natural Resources
+
+Oil Conservation Division
+1220 South St. Francis Dr.
+Santa Fe, NM 87505Form C-105
+Revised April 3, 20171.  WELL API NO.
+2.  Type of Lease
+       STATE        FEE       FED/INDIAN 3.  State Oil & Gas Lease No.WELL COMPLETION OR RECOMPLETlON REPORT AND LOG4.  Reason for filing:
+
+  COMPLETION REPORT (Fill in boxes #1 through #31 for State and Fee wells only)
+
+  C-144 CLOSURE ATTACHMENT  (Fill in boxes #1 through #9, #15 Date Rig Released and #32 and/or #33; attach this and the plat to the C-144 closure report in accordance with 19.15.17.13.K NMAC)5.	Lease Name or Unit Agreement Name6.  Well Number:  7.  Type of Completion:
+            NEW WELL    WORKOVER   DEEPENING   PLUGBACK   DIFFERENT RESERVOIR    OTHER ____________________________________8. Name of Operator 
+9.  OGRID10. Address of Operator
+
+11. Pool name or Wildcat12.LocationUnit LtrSectionTownshipRangeLotFeet from theN/S Line Feet from theE/W LineCountySurface: BH:13. Date Spudded
+14. Date T.D. Reached15. Date Rig Released16. Date Completed (Ready to Produce)17. Elevations (DF and RKB, RT, GR, etc.)18. Total Measured Depth of Well
+19. Plug Back Measured Depth
+20.  Was Directional Survey Made?21.  Type Electric and Other Logs Run22. Producing Interval(s), of this completion - Top, Bottom, Name
+23.                                                        CASING RECORD (Report all strings set in well)CASING SIZEWEIGHT LB./FT.DEPTH SETHOLE SIZECEMENTING RECORDAMOUNT PULLED24.                                                                              LINER RECORD25.                    TUBING RECORDSIZETOPBOTTOMSACKS CEMENTSCREENSIZEDEPTH SETPACKER SET26.	Perforation record (interval, size, and number)27.  ACID, SHOT, FRACTURE, CEMENT, SQUEEZE, ETC.	I DEPTH INTERVALAMOUNT AND KIND MATERIAL USED28.                                                                                                                          PRODUCTIONDate First Production
+
+Production Method (Flowing, gas lift, pumping - Size and type pump)Well Status (Prod. or Shut-in)Date of Test
+
+		Hours TestedChoke SizeProd'n For
+Test PeriodOil - BblGas - MCFWater - Bbl.Gas - Oil RatioFlow Tubing Press.
+Casing PressureCalculated 24-
+Hour RateOil - Bbl.Gas - MCFWater - Bbl.Oil Gravity - API - (Corr.)29. Disposition of Gas (Sold, used for fuel, vented, etc.)
+
+30. Test Witnessed By31. List Attachments
+
+32. If a temporary pit was used at the well, attach a plat with the location of the temporary pit.                                                        33. Rig Release Date:
+34. If an on-site burial was used at the well, report the exact location of the on-site burial:
+
+                                                                                                               Latitude  ______________________________Longitude  _______________________ NAD83I hereby certify that the information shown on both sides of this form is true and complete to the best of my knowledge and belief
+                                                                                Printed
+Signature                                                                 Name                                            Title                                                        Date
+
+E-mail AddressINSTRUCTIONS
+
+This form is to be filed with the appropriate District Office of the Division not later than 20 days after the completion of any newly-drilled or deepened well and not later than 60 days after completion of closure.  When submitted as a completion report, this shall be accompanied by one copy of all electrical and radio-activity logs run on the well and a summary of all special tests conducted, including drill stem tests. All depths reported shall be measured depths. In the case of directionally drilled wells, true vertical depths shall also be reported. For multiple completions, items 11, 12 and 26-31 shall be reported for each zone. 
+
+INDICATE FORMATION TOPS IN CONFORMANCE WITH GEOGRAPHICAL SECTION OF STATE
+Southeastern New MexicoNorthwestern New MexicoT. Anhy___________________T. Canyon__________________T. Ojo Alamo_______________T. Penn A"_________________T. Salt____________________T. Strawn___________________T. Kirtland  ________________T. Penn. "B"________________B. Salt____________________T. Atoka___________________T. Fruitland_________________T. Penn. "C"______________T. Yates___________________T. Miss____________________T. Pictured Cliffs_____________T. Penn. "D"________________T. 7 Rivers_________________T. Devonian________________T. Cliff House_______________T. Leadville________________T. Queen__________________T. Silurian__________________T. Menefee_________________T. Madison_________________T. Grayburg________________T. Montoya_________________T. Point Lookout_____________T. Elbert___________________T. San Andres______________T. Simpson_________________T. Mancos__________________T. McCracken______________T. Glorieta_________________T. McKee__________________T. Gallup___________________T. Ignacio Otzte____________T. Paddock________________T. Ellenburger_______________Base Greenhorn______________T.Granite __________________T. Blinebry________________T. Gr. Wash_________________T. Dakota__________________T.Tubb____________________T. Delaware Sand____________T. Morrison_________________T. Drinkard________________T. Bone Springs_____________T.Todilto___________________T. Abo____________________T._________________________T. Entrada__________________T. Wolfcamp_______________T._________________________T. Wingate_________________T. Penn___________________T._________________________T. Chinle___________________T. Cisco (Bough C)__________T._________________________T. Permian__________________OIL OR GAS SANDS OR ZONES
+No. 1, from…………….……..….to………………………….	No. 3, from………………………to…….……………………
+No. 2, from………………………to.…………………………	No. 4, from………………………to………………………….
+IMPORTANT WATER SANDS
+Include data on rate of water inflow and elevation to which water rose in hole.
+No. 1, from………………………………….to………………………………………feet……………………………………
+No. 2, from………………………………….to………………………………………feet……………………………………
+No. 3, from………………………………….to………………………………………feet……………………………………
+LITHOLOGY RECORD (Attach additional sheet if necessary)
+FromToThickness
+In FeetLithology FromToThickness
+In FeetLithology

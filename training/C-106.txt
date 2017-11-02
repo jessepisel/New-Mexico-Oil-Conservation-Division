@@ -1,0 +1,82 @@
+District I  (575) 393-6161
+1625 N. French Dr., Hobbs, NM 88240
+District II  (575) 748-1283
+811 S. First St., Artesia, NM 88210
+District III  (505) 334-6178
+1000 Rio Brazos Road, Aztec, NM 87410
+District IV  (505) 827-8198
+1220 S. St. Francis Dr., Santa Fe, NM 87505State of New Mexico
+Energy Minerals and Natural Resources
+
+Oil Conservation Division
+1220 South St. Francis Dr.
+Santa Fe, NM 87505
+Form C-106
+Revised August 1, 2011
+
+
+
+
+ACT Permit No. ___________________NOTICE OF INTENTION TO UTILIZE AUTOMATIC CUSTODY TRANSFER EQUIPMENT
+
+Operator____________________________________________________________________________________________________
+
+Address______________________________________________________________County_________________________________
+
+Lease(s) to be served by this ACT Unit____________________________________________________________________________
+
+Pool(s) to be served by this ACT Unit_____________________________________________________________________________
+
+Location of ACT System: Unit______________Section_________________Township____________Range_____________________
+Order No. authorizing commingling between leases if more than one lease is to be served by this system.
+
+_____________________________________________________________Date___________________________________________
+Order No. authorizing commingling between pools if more than one pool is to be served by this system
+
+_____________________________________________________________Date___________________________________________
+
+Authorized transporter of oil from this system_______________________________________________________________________
+
+Transporter's address___________________________________________________________________________________________
+
+Maximum expected daily through-put for this system:________________________________________________________________
+If system fails to transfer oil due to malfunction or otherwise, waste by overflow will be averted by:
+CHECK ONE:   A.   Automatic shut-down facilities             B.   Providing adequate available capacity to receive production
+                                      as required by 19.15.18.15.C(8) NMAC          during maximum unattended time of lease operation
+                                                                                                                19.15.18.15.C(9) NMAC
+If "A" above is checked, will flowing wells be shut-in at the header manifold or at the wellhead?
+
+_______________________________________________________Maximum well-head shut-in pressure_____________
+
+If "B" above is checked, how much storage capacity is available above the normal high working level of the
+
+surge tank ___________________________BBLS.
+What is the normal maximum unattended time of lease operation? _________________________________________________Hours.
+What device will be used for measuring oil in this ACT unit?
+CHECK ONE:           Positive displacement meter                                          Weir-type measuring vessel
+
+                                   Positive volume metering chamber                              Other; describe______________________________
+
+Remarks:____________________________________________________________________________________________________
+
+OPERATOR:OIL CONSERVATION DIVISIONI hereby certify above information is true and complete to best of my knowledge and subject ACT system will be installed and operated in accordance with Rule 19.15.18.15 NMAC. Approval of this Form
+C-106 does not eliminate necessity of an approved C-104 prior to running any oil or gas from this system.
+
+Signature _____________________________________________
+
+Printed Name & Title____________________________________
+
+E-mail Address _________________________________________
+
+Date ______________________Telephone___________________
+
+
+Approved by:__________________________________
+
+Title:_________________________________________
+
+Date:_________________________________________
+INSTRUCTIONS: Submit one copy of Form C-106 with following attachments to appropriate district office.  
+1)  Lease plat showing all wells which will be produced in ACT system.
+2)  Schematic diagram of battery and ACT equipment showing all major components and means employed to prove accuracy of measuring device.
+3)  Letter from transporter agreeing to utilization of ACT system as shown on schematic diagram.

@@ -1,0 +1,447 @@
+District I
+1625 N. French Dr., Hobbs, NM 88240
+District II
+811 S. First St., Artesia, NM 88210
+District III
+1000 Rio Brazos Road, Aztec, NM 87410
+District IV
+1220 S. St. Francis Dr., Santa Fe, NM 87505State of New Mexico
+Energy Minerals and Natural Resources
+Department
+Oil Conservation Division
+1220 South St. Francis Dr.
+Santa Fe, NM 87505
+Form C-144
+Revised April 3, 2017
+
+For temporary pits, below-grade tanks, and multi-well fluid management pits, submit to the appropriate NMOCD District Office. 
+For permanent pits submit to the Santa Fe Environmental Bureau office and provide a copy to the appropriate NMOCD District Office. 
+
+Pit, Below-Grade Tank, or 
+Proposed Alternative Method Permit or Closure Plan Application 
+
+Type of action: 	 Below grade tank registration
+        Permit of a pit or proposed alternative method  
+        		 Closure of a pit, below-grade tank, or proposed alternative method 
+              		 Modification to an existing permit/or registration 
+        		 Closure plan only submitted for an existing permitted or non-permitted pit, below-grade tank, or proposed alternative method 
+
+Instructions:  Please submit one application (Form C-144) per individual pit, below-grade tank or alternative request
+
+Please be advised that approval of this request does not relieve the operator of liability should operations result in pollution of surface water, ground water or the environment.  Nor does approval relieve the operator of its responsibility to comply with any other applicable governmental authority's rules, regulations or ordinances. 
+
+1.
+Operator: ________________________________________________________________  OGRID #:_________________________________________
+Address: ____________________________________________________________________________________________________________________
+Facility or well name: __________________________________________________________________________________________________________   
+API Number: _____________________________________________       OCD Permit Number: ______________________________________________
+U/L or Qtr/Qtr  ______________ Section ____________ Township ____________ Range ____________ County:  ________________________________ 
+Center of Proposed Design:  Latitude ______________________________ Longitude ________________________________  NAD83
+Surface Owner:  Federal  State  Private  Tribal Trust or Indian Allotment 
+
+2.
+ Pit:    Subsection F, G or J  of 19.15.17.11 NMAC
+Temporary:   Drilling   Workover  
+ Permanent  Emergency   Cavitation   P&A   Multi-Well Fluid Management                    Low Chloride Drilling Fluid  yes  no
+ Lined    Unlined    Liner type:  Thickness _________mil     LLDPE   HDPE   PVC   Other  ___________________________     
+ String-Reinforced
+Liner Seams:   Welded   Factory   Other  _______________________  Volume: __________bbl   Dimensions: L______ x W______ x D______
+
+
+3.
+ Below-grade tank:    Subsection I of 19.15.17.11 NMAC
+Volume: _____________________bbl   Type of fluid:  ______________________________________________
+Tank Construction material:  ___________________________________
+ Secondary containment with leak detection   Visible sidewalls, liner, 6-inch lift and automatic overflow shut-off
+ Visible sidewalls and liner   Visible sidewalls only    Other  ________________________________________________
+Liner type:  Thickness ___________________mil     HDPE   PVC    Other  _____________________________________           
+4.
+ Alternative Method:  
+Submittal of an exception request is required.   Exceptions must be submitted to the Santa Fe Environmental Bureau office for consideration of approval.
+5.
+Fencing:  Subsection D of 19.15.17.11 NMAC (Applies to permanent pits, temporary pits, and below-grade tanks)
+ Chain link, six feet in height, two strands of barbed wire at top (Required if located within 1000 feet of a permanent residence, school, hospital, institution or church)
+
+ Four foot height, four strands of barbed wire evenly spaced between one and four feet
+ Alternate.  Please specify________________________________________
+6.
+Netting:  Subsection E of 19.15.17.11 NMAC (Applies to permanent pits and permanent open top tanks)
+ Screen   Netting   Other_____________________________________
+ Monthly inspections (If netting or screening is not physically feasible)
+7.
+Signs:   Subsection C of 19.15.17.11 NMAC
+ 12”x 24”, 2” lettering, providing Operator’s name, site location, and emergency telephone numbers  
+ Signed in compliance with 19.15.16.8 NMAC
+8.
+Variances and Exceptions:
+Justifications and/or demonstrations of equivalency are required.  Please refer to 19.15.17 NMAC for guidance.
+
+Please check a box if one or more of the following is requested, if not leave blank:
+       Variance(s):  Requests must be submitted to the appropriate division district for consideration of approval.  
+       Exception(s):   Requests must be submitted to the Santa Fe Environmental Bureau office for consideration of approval.  
+9.
+Siting Criteria (regarding permitting):  19.15.17.10 NMAC
+Instructions:  The applicant must demonstrate compliance for each siting criteria below in the application.  Recommendations of acceptable source material are provided below.  Siting criteria does not apply to drying pads or above-grade tanks.
+General siting
+
+Ground water is less than 25 feet below the bottom of a low chloride temporary pit or below-grade tank.
+-  NM Office of the State Engineer - iWATERS database search;  USGS;  Data obtained from nearby wells
+
+Ground water is less than 50 feet below the bottom of a Temporary pit, permanent pit,  or Multi-Well Fluid Management pit .
+NM Office of the State Engineer - iWATERS database search; USGS; Data obtained from nearby wells
+
+Within incorporated municipal boundaries or within a defined municipal fresh water well field covered under a municipal ordinance adopted pursuant to NMSA 1978, Section 3-27-3, as amended. (Does not apply to below grade tanks)
+- Written confirmation or verification from the municipality; Written approval obtained from the municipality
+
+Within the area overlying a subsurface mine. (Does not apply to below grade tanks)
+- Written confirmation or verification or map from the NM EMNRD-Mining and Mineral Division
+
+Within an unstable area. (Does not apply to below grade tanks)
+- Engineering measures incorporated into the design; NM Bureau of Geology & Mineral Resources; USGS; NM Geological Society; Topographic map
+
+Within a 100-year floodplain. (Does not apply to below grade tanks)
+- FEMA map
+
+Below Grade Tanks
+
+Within 100 feet of a continuously flowing watercourse, significant watercourse, lake bed, sinkhole, wetland or playa lake (measured from the ordinary high-water mark). 
+- Topographic map; Visual inspection (certification) of the proposed site
+
+Within 200 horizontal feet of a spring or a fresh water well used for public or livestock consumption;. 
+- NM Office of the State Engineer - iWATERS database search; Visual inspection (certification) of the proposed site
+
+Temporary Pit using Low Chloride Drilling Fluid (maximum chloride content 15,000 mg/liter)
+
+Within 100 feet of a continuously flowing watercourse, or any other significant watercourse or within 200 feet of any lakebed, sinkhole, or playa lake (measured from the ordinary high-water mark). (Applies to low chloride temporary pits.)
+- Topographic map; Visual inspection (certification) of the proposed site
+
+Within 300 feet from a occupied permanent residence, school, hospital, institution, or church in existence at the time of initial application.
+- Visual inspection (certification) of the proposed site; Aerial photo; Satellite image
+
+Within 200 horizontal feet of a spring or a private, domestic fresh water well used by less than five households for domestic or stock watering purposes, or 300feet of any other fresh water well or spring, in existence at the time of the initial application.
+NM Office of the State Engineer - iWATERS database search; Visual inspection (certification) of the proposed site
+
+Within 100 feet of a wetland.
+- US Fish and Wildlife Wetland Identification map; Topographic map; Visual inspection (certification) of the proposed site 
+
+Temporary Pit Non-low chloride drilling fluid
+
+Within 300 feet of a continuously flowing watercourse, or any other significant watercourse, or within 200 feet of any lakebed, sinkhole, or playa lake (measured from the ordinary high-water mark).
+- Topographic map; Visual inspection (certification) of the proposed site
+
+Within 300 feet from a permanent residence, school, hospital, institution, or church in existence at the time of initial application.
+- Visual inspection (certification) of the proposed site; Aerial photo; Satellite image
+
+Within 500 horizontal feet of a spring or a private, domestic fresh water well used by less than five households for domestic or stock watering purposes, or 1000 feet of any other fresh water well or spring, in the existence at the time of the initial application;
+- NM Office of the State Engineer - iWATERS database search; Visual inspection (certification) of the proposed site
+
+Within 300 feet of a wetland.
+- US Fish and Wildlife Wetland Identification map; Topographic map; Visual inspection (certification) of the proposed site 
+
+Permanent Pit or Multi-Well Fluid Management Pit
+
+Within 300 feet of a continuously flowing watercourse, or 200 feet of any other significant watercourse, or lakebed, sinkhole, or playa lake (measured from the ordinary high-water mark).
+- Topographic map; Visual inspection (certification) of the proposed site
+
+Within 1000 feet from a permanent residence, school, hospital, institution, or church in existence at the time of initial application.
+- Visual inspection (certification) of the proposed site; Aerial photo; Satellite image
+
+Within 500 horizontal feet of a spring or a fresh water well used for domestic or stock watering purposes, in existence at the time of initial application.
+- NM Office of the State Engineer - iWATERS database search; Visual inspection (certification) of the proposed site
+
+Within 500 feet of a wetland.
+- US Fish and Wildlife Wetland Identification map; Topographic map; Visual inspection (certification) of the proposed site 
+
+
+
+
+
+  Yes   No
+  NA
+
+  Yes   No
+  NA
+
+
+  Yes   No
+
+
+
+  Yes   No
+
+
+  Yes   No
+
+
+  Yes   No
+
+
+
+
+
+  Yes   No
+
+
+
+  Yes   No
+
+
+
+
+
+
+  Yes   No
+
+
+
+  Yes   No
+
+
+
+
+  Yes   No
+
+
+
+
+  Yes   No
+
+
+
+
+
+
+  Yes   No
+
+
+  Yes   No
+
+
+
+  Yes   No
+
+
+  Yes   No
+
+
+
+
+
+  Yes   No
+
+
+
+  Yes   No
+
+
+
+  Yes   No
+
+
+  Yes   No
+
+10.
+Temporary Pits, Emergency Pits, and Below-grade Tanks Permit Application Attachment Checklist:   Subsection B of 19.15.17.9 NMAC
+Instructions:  Each of the following items must be attached to the application.  Please indicate, by a check mark in the box, that the documents are attached.
+     Hydrogeologic Report (Below-grade Tanks) - based upon the requirements of Paragraph (4) of Subsection B of 19.15.17.9 NMAC
+     Hydrogeologic Data (Temporary and Emergency Pits) - based upon the requirements of Paragraph (2) of Subsection B of 19.15.17.9 NMAC
+     Siting Criteria Compliance Demonstrations - based upon the appropriate requirements of 19.15.17.10 NMAC
+     Design Plan - based upon the appropriate requirements of 19.15.17.11 NMAC
+     Operating and Maintenance Plan - based upon the appropriate requirements of 19.15.17.12 NMAC
+     Closure Plan (Please complete Boxes 14 through 18, if applicable) - based upon the appropriate requirements of Subsection C of 19.15.17.9 NMAC and 19.15.17.13 NMAC
+
+  Previously Approved Design (attach copy of design)     API Number: _______________________  or  Permit Number: _________________________  
+
+11.
+Multi-Well Fluid Management Pit Checklist:   Subsection B of 19.15.17.9  NMAC
+Instructions:  Each of the following items must be attached to the application.  Please indicate, by a check mark in the box, that the documents are attached.
+      Design Plan - based upon the appropriate requirements of 19.15.17.11 NMAC
+      Operating and Maintenance Plan - based upon the appropriate requirements of 19.15.17.12 NMAC
+      A List of wells with approved application for permit to drill associated with the pit.
+      Closure Plan (Please complete Boxes 14 through 18, if applicable) - based upon the appropriate requirements of Subsection C of 19.15.17.9 NMAC and 19.15.17.13 NMAC
+      Hydrogeologic Data - based upon the requirements of Paragraph (4) of Subsection B of 19.15.17.9 NMAC
+      Siting Criteria Compliance Demonstrations - based upon the appropriate requirements of 19.15.17.10 NMAC
+
+  Previously Approved Design (attach copy of design)     API Number: _______________________  or  Permit Number: _________________________
+12.
+Permanent Pits Permit Application Checklist:   Subsection B of 19.15.17.9 NMAC
+Instructions:  Each of the following items must be attached to the application.  Please indicate, by a check mark in the box, that the documents are attached.
+      Hydrogeologic Report - based upon the requirements of Paragraph (1) of Subsection B of 19.15.17.9 NMAC
+      Siting Criteria Compliance Demonstrations - based upon the appropriate requirements of 19.15.17.10 NMAC
+      Climatological Factors Assessment
+      Certified Engineering Design Plans - based upon the appropriate requirements of 19.15.17.11 NMAC
+      Dike Protection and Structural Integrity Design - based upon the appropriate requirements of 19.15.17.11 NMAC
+      Leak Detection Design - based upon the appropriate requirements of 19.15.17.11 NMAC
+      Liner Specifications and Compatibility Assessment - based upon the appropriate requirements of 19.15.17.11 NMAC
+      Quality Control/Quality Assurance Construction and Installation Plan
+      Operating and Maintenance Plan - based upon the appropriate requirements of 19.15.17.12 NMAC
+      Freeboard and Overtopping Prevention Plan - based upon the appropriate requirements of 19.15.17.11 NMAC
+      Nuisance or Hazardous Odors, including H2S, Prevention Plan
+      Emergency Response Plan
+      Oil Field Waste Stream Characterization
+      Monitoring and Inspection Plan
+      Erosion Control Plan
+      Closure Plan - based upon the appropriate requirements of  Subsection C of 19.15.17.9 NMAC and 19.15.17.13 NMAC
+13.
+Proposed Closure:  19.15.17.13 NMAC 
+Instructions:  Please complete the applicable boxes, Boxes 14 through 18, in regards to the proposed closure plan.
+
+Type:   Drilling   Workover   Emergency   Cavitation   P&A    Permanent Pit    Below-grade Tank   Multi-well Fluid Management Pit
+             Alternative
+Proposed Closure Method:    Waste Excavation and Removal  
+                                               Waste Removal  (Closed-loop systems only)
+                                               On-site Closure Method (Only for temporary pits and closed-loop systems)    
+                                                                  In-place Burial     On-site Trench Burial                                                         
+                                               Alternative Closure Method 
+14.
+Waste Excavation and Removal Closure Plan Checklist:  (19.15.17.13 NMAC) Instructions:  Each of the following items must be attached to the closure plan.  Please indicate, by a check mark in the box, that the documents are attached.
+      Protocols and Procedures - based upon the appropriate requirements of 19.15.17.13 NMAC
+      Confirmation Sampling Plan (if applicable) - based upon the appropriate requirements of Subsection C of 19.15.17.13 NMAC
+      Disposal Facility Name and Permit Number (for liquids, drilling fluids and drill cuttings)
+      Soil Backfill and Cover Design Specifications - based upon the appropriate requirements of Subsection H of 19.15.17.13 NMAC
+      Re-vegetation Plan - based upon the appropriate requirements of Subsection H of 19.15.17.13 NMAC
+      Site Reclamation Plan - based upon the appropriate requirements of Subsection H of 19.15.17.13 NMAC
+
+
+15.
+Siting Criteria (regarding on-site closure methods only):  19.15.17.10 NMAC
+Instructions:  Each siting criteria requires a demonstration of compliance in the closure plan.  Recommendations of acceptable source material are provided below.  Requests regarding changes to certain siting criteria require justifications and/or demonstrations of equivalency.  Please refer to 19.15.17.10 NMAC for guidance.
+
+Ground water is less than 25 feet below the bottom of the buried waste.
+- NM Office of the State Engineer - iWATERS database search; USGS; Data obtained from nearby wells
+
+Ground water is between 25-50 feet below the bottom of the buried waste
+- NM Office of the State Engineer - iWATERS database search; USGS; Data obtained from nearby wells
+
+Ground water is more than 100 feet below the bottom of the buried waste.
+- NM Office of the State Engineer - iWATERS database search; USGS; Data obtained from nearby wells
+
+Within 100 feet of a continuously flowing watercourse, or 200 feet of any other significant watercourse, lakebed, sinkhole, or playa lake (measured from the ordinary high-water mark).
+- Topographic map; Visual inspection (certification) of the proposed site
+
+Within 300 feet from a permanent residence, school, hospital, institution, or church in existence at the time of initial application.
+- Visual inspection (certification) of the proposed site; Aerial photo; Satellite image
+
+Within 300 horizontal feet of a private, domestic fresh water well or spring used for domestic or stock watering purposes, in existence at the time of initial application.
+- NM Office of the State Engineer - iWATERS database; Visual inspection (certification) of the proposed site
+
+Written confirmation or verification from the municipality; Written approval obtained from the municipality
+
+Within 300 feet of a wetland.
+US Fish and Wildlife Wetland Identification map; Topographic map; Visual inspection (certification) of the proposed site
+
+Within incorporated municipal boundaries or within a defined municipal fresh water well field covered under a municipal ordinance adopted pursuant to NMSA 1978, Section 3-27-3, as amended. 
+- Written confirmation or verification from the municipality; Written approval obtained from the municipality
+
+Within the area overlying a subsurface mine. 
+- Written confirmation or verification or map from the NM EMNRD-Mining and Mineral Division
+
+Within an unstable area. 
+- Engineering measures incorporated into the design; NM Bureau of Geology & Mineral Resources; USGS; NM Geological Society; Topographic map
+
+Within a 100-year floodplain. 
+- FEMA map
+  Yes   No
+  NA
+
+  Yes   No
+  NA
+
+  Yes   No
+  NA
+
+  Yes   No
+
+
+
+  Yes   No
+
+
+  Yes   No
+
+
+
+  Yes   No
+
+
+  Yes   No
+
+
+  Yes   No
+
+
+  Yes   No
+
+
+
+  Yes   No
+
+  Yes   No
+
+16.
+On-Site Closure Plan Checklist:  (19.15.17.13 NMAC) Instructions:  Each of the following items must be attached to the closure plan.  Please indicate, by a check mark in the box, that the documents are attached.
+      Siting Criteria Compliance Demonstrations - based upon the appropriate requirements of 19.15.17.10 NMAC
+      Proof of Surface Owner Notice - based upon the appropriate requirements of Subsection E of 19.15.17.13 NMAC
+      Construction/Design Plan of  Burial Trench (if applicable) based upon the appropriate requirements of Subsection K of 19.15.17.11 NMAC
+      Construction/Design Plan of Temporary Pit (for in-place burial of a drying pad) - based upon the appropriate requirements of 19.15.17.11 NMAC
+      Protocols and Procedures - based upon the appropriate requirements of 19.15.17.13 NMAC
+      Confirmation Sampling Plan (if applicable) - based upon the appropriate requirements of 19.15.17.13 NMAC
+      Waste Material Sampling Plan - based upon the appropriate requirements of 19.15.17.13 NMAC
+      Disposal Facility Name and Permit Number (for liquids, drilling fluids and drill cuttings or in case on-site closure standards cannot be achieved)
+      Soil Cover Design - based upon the appropriate requirements of Subsection H of 19.15.17.13 NMAC
+      Re-vegetation Plan - based upon the appropriate requirements of Subsection H of 19.15.17.13 NMAC
+      Site Reclamation Plan - based upon the appropriate requirements of Subsection H of 19.15.17.13 NMAC
+17.
+Operator Application Certification:
+
+
+ I hereby certify that the information submitted with this application is true, accurate and complete to the best of my knowledge and belief.  
+
+Name (Print): _________________________________________________________     Title: ______________________________________________
+
+Signature:_______________________________________________________________     Date: ____________________________________________
+
+e-mail address:________________________________________________________     Telephone: ___________________________________________
+18.
+OCD Approval:    Permit Application (including closure plan)    Closure Plan (only)      OCD Conditions (see attachment) 
+
+OCD Representative Signature:  _________________________________________________________   Approval Date: _______________________
+
+Title: _______________________________________________________             OCD Permit Number:_______________________________________
+19.
+Closure Report (required within 60 days of closure completion):  19.15.17.13 NMAC
+Instructions:  Operators are required to obtain an approved closure plan prior to implementing any closure activities and submitting the closure report.  The closure report is required to be submitted to the division within 60 days of the completion of the closure activities.  Please do not complete this section of the form until an approved closure plan has been obtained and the closure activities have been completed.
+
+                                                                                                                                         Closure Completion Date:___________________________
+
+20.
+Closure Method:     
+  Waste Excavation and Removal      On-Site Closure Method       Alternative Closure Method     Waste Removal  (Closed-loop systems only)
+  If different from approved plan, please explain.    
+
+21.
+Closure Report Attachment Checklist:  Instructions:  Each of the following items must be attached to the closure report.  Please indicate, by a check mark in the box, that the documents are attached.
+      Proof of Closure Notice (surface owner and division)                                              
+      Proof of Deed Notice (required for on-site closure for private land only)
+      Plot Plan (for on-site closures and temporary pits)                                               
+      Confirmation Sampling Analytical Results (if applicable)
+      Waste Material Sampling Analytical Results (required for on-site closure)
+      Disposal Facility Name and Permit Number
+      Soil Backfilling and Cover Installation
+      Re-vegetation Application Rates and Seeding Technique
+      Site Reclamation (Photo Documentation)
+           On-site Closure Location:  Latitude _________________________ Longitude ___________________________  NAD:  1927  1983
+
+22.
+Operator Closure Certification:
+	
+I hereby certify that the information and attachments submitted with this closure report is true, accurate and complete to the best of my knowledge and belief.  I also certify that the closure complies with all applicable closure requirements and conditions specified in the approved closure plan.
+
+
+Name (Print): ________________________________________________________     Title: _______________________________________________
+
+Signature:_______________________________________________________________     Date: ____________________________________________
+
+e-mail address:________________________________________________________     Telephone: ___________________________________________
+Form C-144	Oil Conservation Division	Page 1 of 3
+

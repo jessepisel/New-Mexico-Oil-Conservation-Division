@@ -1,0 +1,70 @@
+State of New Mexico
+Energy Minerals and Natural Resources
+
+Oil Conservation Division
+1220 South St. Francis Dr.
+Santa Fe, NM 87505
+Form C-122-A
+Revised June 10, 2003WELL DELIVERABILITY TEST REPORT FOR YEAR 20___
+Pool NamePool Slope
+  n = FormationCountyOperatorWell Name and NumberUnit LetterSectionTownshipRangePurchasing PipelineCasing O.D. – InchesCasing I.D. – InchesSet at Depth – FeetTubing O.D. - InchesTubing I.D. – InchesTop – Tubing Perf. - FeetGas Pay Zone
+From                                           ToWell Producing Thru
+Casing                                                    TubingGas GravityGravity X LengthDate of Flow Test
+From                                                                            ToDate Shut-in Pressure MeasuredPRESSURE DATA – ALL PRESSURES IN PSIA(a) Flowing Casing
+Pressure (DWt)
+
+
+(b) Flowing Tubing
+Pressure (DWt)(c) Flowing Meter
+Pressure (DWt)
+(d)  Flow Chart
+Static Reading(e) Meter Error
+(Item c – Item d)(f) Friction Loss
+(a – c) or (b – c)(g) Average Meter
+Pressure (Integr.)(h) Corrected Meter
+Pressure (g = e)
+
+
+(i) Avg. Wellhead
+Press. Pt = (h + f)(j) Shut-in Casing
+Pressure (DWt)(k) Shut-in Tubing
+Pressure (DWt)(l) Pc = higher value
+of (j) or (k)(m) Del. Pressure
+
+Pd = _________% Pc(n) Separator or De-
+hydrator  Pr. (DWt)
+for critical flow onlyFLOW RATE CORRECTION (METER ERROR)Integrated Volume – MCF/D
+                             Item c
+Quotient of       __________
+                              Item d                                      
+                                Item c
+                           __________
+                                Item d
+Corrected Volume
+
+
+
+
+  Q =                                          MCF/DWORKING PRESSURE CALCULATION
+(l – e –a)
+
+
+
+(FcQm)2 (1000)R2 =
+(l – e –a) (FcQm)2 (1000)
+Pt2
+Pw2 = Pt2 + R2
+Pw =               Pw2DELIVERABILITY CALCULATION                                                                                                                                      n                                          n
+                  Pc2 – Pd2    n 
+  D = Q    ________     =  
+                  Pc2 – Pw2            ________________             __________________      = _____________________ = ________________      = ___________________MCF/D
+
+REMARKS:
+SUMMARY
+Company:Item:h _______________________________________ Psia
+By:Pc ______________________________________ Psia
+Title:Q _____________________________________ MCF/D
+E-mail Address:Pw______________________________________ Psia
+Witnessed By:Pd______________________________________ Psia
+Company:D ______________________________________ MCF/D
+E-mail Address:

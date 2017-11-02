@@ -1,0 +1,188 @@
+STATE OF NEW MEXICO
+ENERGY, MINERALS AND NATURAL
+RESOURCES DEPARTMENTOil Conservation Division
+1220 South St. Francis Dr.
+Santa Fe, New Mexico 87505FORM C-108
+Revised June 10, 2003
+
+APPLICATION FOR AUTHORIZATION TO INJECT
+
+I.	PURPOSE:     __________Secondary Recovery       _________Pressure Maintenance     _________Disposal     _________Storage
+      Application qualifies for administrative approval?     __________Yes          __________No
+
+II.	OPERATOR: _____________________________________________________________________________________________
+       
+      ADDRESS: ______________________________________________________________________________________________
+       
+      CONTACT PARTY: _______________________________________________________________PHONE: ________________
+
+III.	WELL DATA: Complete the data required on the reverse side of this form for each well proposed for injection.
+        Additional sheets may be attached if necessary.
+
+IV.	Is this an expansion of an existing project?     __________Yes     __________No
+      If yes, give the Division order number authorizing the project: ______________________________________________________
+
+V.	Attach a map that identifies all wells and leases within two miles of any proposed injection well with a one-half mile radius circle drawn around each proposed injection well.  This circle identifies the well's area of review.
+
+VI.	Attach a tabulation of data on all wells of public record within the area of review which penetrate the proposed injection zone. Such data shall include a description of each well's type, construction, date drilled, location, depth, record of completion, and a schematic of any plugged well illustrating all plugging detail.
+
+VII.	Attach data on the proposed operation, including:
+
+      1.   Proposed average and maximum daily rate and volume of fluids to be injected;
+      2.   Whether the system is open or closed;
+      3.   Proposed average and maximum injection pressure;
+4.   Sources and an appropriate analysis of injection fluid and compatibility with the receiving formation if other than reinjected produced water; and,
+5.   If injection is for disposal purposes into a zone not productive of oil or gas at or within one mile of the proposed well, attach a chemical analysis of the disposal zone formation water (may be measured or inferred from existing literature, studies, nearby wells, etc.).
+
+*VIII.	Attach appropriate geologic data on the injection zone including appropriate lithologic detail, geologic name, thickness, and depth. Give the geologic name, and depth to bottom of all underground sources of drinking water (aquifers containing waters with total dissolved solids concentrations of 10,000 mg/l or less) overlying the proposed injection zone as well as any such sources known to be immediately underlying the injection interval.
+
+IX.	Describe the proposed stimulation program, if any.
+
+*X.	Attach appropriate logging and test data on the well.  (If well logs have been filed with the Division, they need not be resubmitted).
+
+*XI.	Attach a chemical analysis of fresh water from two or more fresh water wells (if available and producing) within one mile of any injection or disposal well showing location of wells and dates samples were taken.
+
+XII.	Applicants for disposal wells must make an affirmative statement that they have examined available geologic and engineering data and find no evidence of open faults or any other hydrologic connection between the disposal zone and any underground sources of drinking water.
+
+XIII.	Applicants must complete the "Proof of Notice" section on the reverse side of this form.
+
+XIV.	Certification:  I hereby certify that the information submitted with this application is true and correct to the best of my knowledge and belief.
+
+      NAME: __________________________________________________________TITLE: _________________________________
+       
+      SIGNATURE:  ___________________________________________________________DATE: __________________________
+       
+      E-MAIL ADDRESS:  ______________________________________________________
+*	If the information required under Sections VI, VIII, X, and XI above has been previously submitted, it need not be resubmitted.  Please show the date and circumstances of the earlier submittal: _____________________________________________________
+
+DISTRIBUTION: Original and one copy to Santa Fe with one copy to the appropriate District Office
+
+
+Side 2
+
+
+
+III.  WELL DATA
+
+A. 	The following well data must be submitted for each injection well covered by this application.  The data must be both in tabular and schematic form and shall include:
+
+      (1) Lease name; Well No.; Location by Section, Township and Range; and footage location within the section.
+
+(2) Each casing string used with its size, setting depth, sacks of cement used, hole size, top of cement, and how such top was determined.
+
+      (3) A description of the tubing to be used including its size, lining material, and setting depth.
+
+      (4) The name, model, and setting depth of the packer used or a description of any other seal system or assembly used.
+
+Division District Offices have supplies of Well Data Sheets which may be used or which may be used as models for this purpose. Applicants for several identical wells may submit a "typical data sheet" rather than submitting the data for each well.
+
+B.	The following must be submitted for each injection well covered by this application.  All items must be addressed for the initial well.  Responses for additional wells need be shown only when different.  Information shown on schematics need not be repeated.
+
+      (1) The name of the injection formation and, if applicable, the field or pool name.
+
+      (2) The injection interval and whether it is perforated or open-hole.
+
+      (3) State if the well was drilled for injection or, if not, the original purpose of the well.
+
+(4) Give the depths of any other perforated intervals and detail on the sacks of cement or bridge plugs used to seal off such perforations.
+
+      (5) Give the depth to and the name of the next higher and next lower oil or gas zone in the area of the well, if any.
+
+XIV.	PROOF OF NOTICE
+
+All applicants must furnish proof that a copy of the application has been furnished, by certified or registered mail, to the owner of the surface of the land on which the well is to be located and to each leasehold operator within one-half mile of the well location.
+
+Where an application is subject to administrative approval, a proof of publication must be submitted.  Such proof shall consist of a copy of the legal advertisement which was published in the county in which the well is located.  The contents of such advertisement must include:
+
+      (1) The name, address, phone number, and contact party for the applicant;
+
+      (2) The intended purpose of the injection well; with the exact location of single wells or the Section,
+         Township, and Range location of multiple wells;
+
+      (3) The formation name and depth with expected maximum injection rates and pressures; and,
+
+(4) A notation that interested parties must file objections or requests for hearing with the Oil Conservation Division, 1220 South St. Francis Dr., Santa Fe, New Mexico 87505, within 15 days.
+
+NO ACTION WILL BE TAKEN ON THE APPLICATION UNTIL PROPER PROOF OF NOTICE HAS BEEN SUBMITTED.
+
+NOTICE: Surface owners or offset operators must file any objections or requests for hearing of administrative applications within 15 days from the date this application was mailed to them.
+
+Side 1                                                                                                     INJECTION WELL DATA SHEET
+
+OPERATOR: ______________________________________________________________________________________________________________
+
+WELL NAME & NUMBER: __________________________________________________________________________________________________
+
+WELL LOCATION: _________________________________________________________________________________________________________
+                                          FOOTAGE LOCATION                            UNIT LETTER                         SECTION           TOWNSHIP             RANGE
+
+WELLBORE SCHEMATIC                                                                                                           WELL CONSTRUCTION DATA
+Surface Casing
+
+Hole Size: ________________________
+Casing Size:____________________
+Cemented with: _________________ sx.
+or _________________________ ft3
+Top of Cement: ____________________
+Method Determined: _____________
+Intermediate Casing
+
+Hole Size: ________________________
+Casing Size:____________________
+Cemented with: _________________ sx.
+or _________________________ ft3
+Top of Cement: ____________________
+Method Determined: _____________
+Production Casing
+
+Hole Size: ________________________
+Casing Size:____________________
+Cemented with: _________________ sx.
+or _________________________ ft3
+Top of Cement: ____________________
+Method Determined: _____________
+Total Depth: ______________________
+Injection Interval
+______________________________feet
+to____________________________
+(Perforated or Open Hole; indicate which)
+Side 2
+
+
+INJECTION WELL DATA SHEET
+                              
+Tubing Size: _____________________________Lining Material: _____________________________
+                        
+                    Type of Packer: _____________________________________________________________________
+                    
+                    Packer Setting Depth: ______________________
+                        
+                    Other Type of Tubing/Casing Seal (if applicable): __________________________________________
+                        
+                        
+Additional Data
+                        
+                        
+                    1.	Is this a new well drilled for injection?                     _______Yes  _______No
+                        
+                    If no, for what purpose was the well originally drilled? __________________________________
+                        
+                    	______________________________________________________________________________
+                        
+                    2.	Name of the Injection Formation: ___________________________________________________
+                        
+                    3.	Name of Field or Pool (if applicable): ________________________________________________
+                        
+                    4.	Has the well ever been perforated in any other zone(s)?  List all such perforated
+                    intervals and give plugging detail, i.e. sacks of cement or plug(s) used. _____________________
+                        
+                    	______________________________________________________________________________
+                        
+                    5.	Give the name and depths of any oil or gas zones underlying or overlying the proposed
+                    injection zone in this area: ________________________________________________________
+                        
+                    	______________________________________________________________________________
+                        
+                    	______________________________________________________________________________
+                        
+                    	______________________________________________________________________________
